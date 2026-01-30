@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-08-11)
+## 0.1.0 (2026-01-30)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`dbfb45d`](https://github.com/stdlib-js/stdlib/commit/dbfb45db7d075160f3c6873f31268ab6877bb8c9) - **fix:** correct calculation for x variance _(by Philipp Burckhardt)_
 -   [`79915fb`](https://github.com/stdlib-js/stdlib/commit/79915fbc5fddf69c9045545e207d68bd9a9e5f3f) - **feat:** add `stats/strided/dztest2` [(#7579)](https://github.com/stdlib-js/stdlib/pull/7579) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 
