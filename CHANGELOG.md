@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-26)
+## Unreleased (2026-04-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`7e92216`](https://github.com/stdlib-js/stdlib/commit/7e92216c06b119e58549ca6639e3392a9748cb2c) - **bench:** refactor to use dynamic memory allocation in `stats/strided` [(#11698)](https://github.com/stdlib-js/stdlib/pull/11698) _(by Uday Kakade)_
 -   [`f210de9`](https://github.com/stdlib-js/stdlib/commit/f210de942cbdf23ce50500989c4d96433d5ae53d) - **bench:** refactor to use string interpolation in `stats/strided` [(#11079)](https://github.com/stdlib-js/stdlib/pull/11079) _(by Lokesh Ranjan, Athan Reines)_
 
 </details>
@@ -24,10 +25,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Lokesh Ranjan
+-   Uday Kakade
 
 </section>
 
